@@ -19,7 +19,7 @@ function Hero() {
 
                     <div className="search-bar flexCenter">
                         <HiLocationMarker className='location-mark'/>
-                        <input type="text" />
+                        <input type="text" placeholder='Search Location' />
                         <button className="button">Search</button>                                              
                     </div>
 
