@@ -24,7 +24,7 @@ function Value() {
           </div>
         </div>
         <div className="flexColStart v-right">
-          <span className="orangeText">Our Valur</span>
+          <span className="orangeText">Our Value</span>
           <span className="primaryText">Value We Give to you</span>
           <span className="secondaryText">
             We always ready to help by providijng the best services for you.
