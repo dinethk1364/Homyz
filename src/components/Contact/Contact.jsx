@@ -76,7 +76,7 @@ function Contact() {
             </div>
           </div>
         </div>
-        <div className="c-right">
+        <div className="c-right flexEnd">
           <div className="image-container">
             <img src="./assets/contact.jpg" alt="" />
           </div>
