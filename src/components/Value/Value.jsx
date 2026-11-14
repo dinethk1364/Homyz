@@ -16,7 +16,7 @@ import { useState } from "react";
 
 function Value() {
   return (
-    <section className="v-wrapper">
+    <section id="value" className="v-wrapper">
       <div className="paddings innerWidth flexCenter v-container">
         <div className="v-left">
           <div className="image-container">
